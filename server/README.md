@@ -1,7 +1,7 @@
 #Overview
-git : https://github.com/thriblueblood/kmitl-esd-exercise2-61090038-Thirayut.git
+git : https://github.com/pondssszzz
 This module is about "server" which including the method as follows:
-* getAllCustomers - list of all customers
-* createCustomer - create a customer
-* updateCustomer - update a customer
-* deleteCustomer - delete a customer
+* GET - list of all customers
+* POST - create a customer
+* PUT - update a customer
+* DELETE - delete a customer
